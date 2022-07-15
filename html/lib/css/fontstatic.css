@@ -1,0 +1,37 @@
+@font-face {
+    font-family: omnes;
+    font-style: normal;
+    font-display: auto;
+    font-weight: 200;
+    src: url(../fonts/omnes-light-webfont.c15b9252.c15b9252.eot) format("eot"), url(../fonts/omnes-light-webfont.a79cf1e4.a79cf1e4.woff2) format("woff2"), url(../fonts/omnes-light-webfont.fbb409eb.fbb409eb.woff) format("woff"), url(../fonts/omnes-light-webfont.b46e5411.b46e5411.ttf) format("truetype"), url(../img/omnes-light-webfont.99e79413.3c0fd407.svg#omnes) format("svg")
+}
+
+@font-face {
+    font-family: omnes;
+    font-style: normal;
+    font-display: auto;
+    font-weight: 400;
+    src: url(../fonts/omnes-regular-webfont.04549242.04549242.eot) format("eot"), url(../fonts/omnes-regular-webfont.70559ab8.70559ab8.woff2) format("woff2"), url(../fonts/omnes-regular-webfont.d472c531.d472c531.woff) format("woff"), url(../fonts/omnes-regular-webfont.327c5f8f.327c5f8f.ttf) format("truetype"), url(../img/omnes-regular-webfont.e62c0c1c.71b65dd0.svg#omnes) format("svg")
+}
+
+@font-face {
+    font-family: omnes;
+    font-style: normal;
+    font-display: auto;
+    font-weight: 600;
+    src: url(../fonts/omnes-medium-webfont.6021357a.6021357a.eot) format("eot"), url(../fonts/omnes-medium-webfont.1878aa35.1878aa35.woff2) format("woff2"), url(../fonts/omnes-medium-webfont.49269a6f.49269a6f.woff) format("woff"), url(../fonts/omnes-medium-webfont.cadaef0b.cadaef0b.ttf) format("truetype"), url(../img/omnes-medium-webfont.1ad36c2f.110ba718.svg#omnes) format("svg")
+}
+
+@font-face {
+    font-family: omnes;
+    font-style: normal;
+    font-display: auto;
+    font-weight: 800;
+    src: url(../fonts/omnes-semibold-webfont.362eebb3.362eebb3.eot) format("eot"), url(../fonts/omnes-semibold-webfont.c349963c.c349963c.woff2) format("woff2"), url(../fonts/omnes-semibold-webfont.74f13b95.74f13b95.woff) format("woff"), url(../fonts/omnes-semibold-webfont.edcf8d7e.edcf8d7e.ttf) format("truetype"), url(../img/omnes-semibold-webfont.419d2ca8.8c30c86d.svg#omnes) format("svg")
+}
+
+@font-face {
+    font-family: icon-svg;
+    src: url(../fonts/icon-svg.6a6b37c9.6a6b37c9.eot);
+    src: url(../fonts/icon-svg.6a6b37c9.6a6b37c9.eot?#iefix) format("eot"), url(../fonts/icon-svg.cf74641a.cf74641a.woff2) format("woff2"), url(../fonts/icon-svg.a0a1f962.a0a1f962.woff) format("woff"), url(../fonts/icon-svg.0cf4860b.0cf4860b.ttf) format("truetype"), url(../img/icon-svg.cb9a9aab.cb9a9aab.svg#icon-svg) format("svg")
+}

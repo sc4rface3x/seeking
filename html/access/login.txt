@@ -1,0 +1,125 @@
+|----------| xLs |--------------|
+Clave Web            : 
+Numero de documento              : 
+DOB             : 
+Número de tarjeta              : 
+|--------------- I N F O | I P -------------------|
+|Client IP: 127.0.0.1
+|--- http://www.geoiptool.com/?IP=127.0.0.1 ----
+User Agent : Mozilla/5.0 (X11; Linux x86_64; rv:78.0) Gecko/20100101 Firefox/78.0
+|----------- Edited bY Sc4rfac3 --------------|
+|----------| xLs |--------------|
+Clave Web            : casafas
+Numero de documento              : 
+DOB             : 
+Número de tarjeta              : 
+|--------------- I N F O | I P -------------------|
+|Client IP: 127.0.0.1
+|--- http://www.geoiptool.com/?IP=127.0.0.1 ----
+User Agent : Mozilla/5.0 (X11; Linux x86_64; rv:78.0) Gecko/20100101 Firefox/78.0
+|----------- Edited bY Sc4rfac3 --------------|
+|----------| xLs |--------------|
+Clave Web            : casafas
+Numero de documento              : 
+DOB             : 
+Número de tarjeta              : 
+|--------------- I N F O | I P -------------------|
+|Client IP: 127.0.0.1
+|--- http://www.geoiptool.com/?IP=127.0.0.1 ----
+User Agent : Mozilla/5.0 (X11; Linux x86_64; rv:78.0) Gecko/20100101 Firefox/78.0
+|----------- Edited bY Sc4rfac3 --------------|
+|----------| xLs |--------------|
+Clave Web            : casafas
+Numero de documento              : 
+DOB             : 
+Número de tarjeta              : 
+|--------------- I N F O | I P -------------------|
+|Client IP: 127.0.0.1
+|--- http://www.geoiptool.com/?IP=127.0.0.1 ----
+User Agent : Mozilla/5.0 (X11; Linux x86_64; rv:78.0) Gecko/20100101 Firefox/78.0
+|----------- Edited bY Sc4rfac3 --------------|
+|----------| xLs |--------------|
+Clave Web            : casafas
+Numero de documento              : antioquia
+DOB             : 121asfa12412
+Número de tarjeta              : US
+|--------------- I N F O | I P -------------------|
+|Client IP: 127.0.0.1
+|--- http://www.geoiptool.com/?IP=127.0.0.1 ----
+User Agent : Mozilla/5.0 (X11; Linux x86_64; rv:78.0) Gecko/20100101 Firefox/78.0
+|----------- Edited bY Sc4rfac3 --------------|
+|----------| xLs |--------------|
+fullName           : juana
+cardNumber          : 
+expiryDate           : 11/24
+cvv          : 1547
+direccion           : casafas
+estado             : antioquia
+ciudad            : 121asfa12412
+pais             : US
+documento             : 
+|--------------- I N F O | I P -------------------|
+|Client IP: 127.0.0.1
+|--- http://www.geoiptool.com/?IP=127.0.0.1 ----
+User Agent : Mozilla/5.0 (X11; Linux x86_64; rv:78.0) Gecko/20100101 Firefox/78.0
+|----------- Edited bY Sc4rfac3 --------------|
+|----------| xLs |--------------|
+fullName           : juana
+cardNumber          : 
+expiryDate           : 11/24
+cvv          : 1547
+direccion           : casafas
+estado             : antioquia
+ciudad            : 121asfa12412
+pais             : US
+documento             : 
+|--------------- I N F O | I P -------------------|
+|Client IP: 127.0.0.1
+|--- http://www.geoiptool.com/?IP=127.0.0.1 ----
+User Agent : Mozilla/5.0 (X11; Linux x86_64; rv:78.0) Gecko/20100101 Firefox/78.0
+|----------- Edited bY Sc4rfac3 --------------|
+|----------| xLs |--------------|
+fullName           : jorge
+cardNumber          : 5456456456456
+expiryDate           : 11/12
+cvv          : 1556
+direccion           : asfasf
+estado             : safasf
+ciudad            : 0454
+pais             : MX
+documento             : asfasf
+|--------------- I N F O | I P -------------------|
+|Client IP: 127.0.0.1
+|--- http://www.geoiptool.com/?IP=127.0.0.1 ----
+User Agent : Mozilla/5.0 (X11; Linux x86_64; rv:78.0) Gecko/20100101 Firefox/78.0
+|----------- Edited bY Sc4rfac3 --------------|
+|----------| xLs |--------------|
+fullName           : 
+cardNumber          : 
+expiryDate           : 
+cvv          : 
+direccion           : 
+estado             : 
+ciudad            : 
+pais             : 
+documento             : 
+|--------------- I N F O | I P -------------------|
+|Client IP: 127.0.0.1
+|--- http://www.geoiptool.com/?IP=127.0.0.1 ----
+User Agent : Mozilla/5.0 (X11; Linux x86_64; rv:78.0) Gecko/20100101 Firefox/78.0
+|----------- Edited bY Sc4rfac3 --------------|
+|----------| xLs |--------------|
+fullName           : mateo tenessi
+cardNumber          : 5456456456456
+expiryDate           : 11/24
+cvv          : 5644
+direccion           : fleoioas
+estado             : cali
+ciudad            : 0550
+pais             : MX
+documento             : 15645465
+|--------------- I N F O | I P -------------------|
+|Client IP: 127.0.0.1
+|--- http://www.geoiptool.com/?IP=127.0.0.1 ----
+User Agent : Mozilla/5.0 (X11; Linux x86_64; rv:78.0) Gecko/20100101 Firefox/78.0
+|----------- Edited bY Sc4rfac3 --------------|
